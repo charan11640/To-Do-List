@@ -6,14 +6,17 @@ The To-Do List App is a simple yet powerful tool to help you manage your tasks e
 
 ## Table of Contents
 
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Firebase Setup](#firebase-setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
-- [Demo](#demo)
+- [To-Do List App](#to-do-list-app)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Screenshots](#screenshots)
+  - [Installation](#installation)
+    - [Prerequisites](#prerequisites)
+    - [Steps](#steps)
+  - [Firebase Setup](#firebase-setup)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [Contact](#contact)
 
 ## Features
 
@@ -128,10 +131,8 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 ## Contact
 
-Nihal Ahmed - [n.nihalahmed1@gmail.com](mailto:n.nihalahmed1@gmail.com)
+Charan Sai - [charansaikuna11640@gmail.com](mailto:charansaikuna11640@gmail.com)
 
-Project Link: [To-Do List App](https://github.com/nihalahmed07/CodSoft-Task-1-ToDo-List)
+Project Link: [To-Do List App]()
 
-## Demo
 
-Check out a video demo of the application on YouTube: [Click here for demo video](https://youtu.be/2Zae_kcIy9g)
